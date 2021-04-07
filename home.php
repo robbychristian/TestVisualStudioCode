@@ -8,6 +8,6 @@
     
 </head>
 <body>
-    <h1>Cyrix Xavier Diokno Ponce</h1>
+    <h1>Cyrix Xavier Diokno Ponce.</h1>
 </body>
 </html>
